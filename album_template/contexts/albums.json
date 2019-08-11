@@ -1,0 +1,16 @@
+{
+    "albums":[
+        {
+            "thumb": "img/lena.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing"
+        },
+        {
+            "thumb": "img/lena.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing"
+        },
+        {
+            "thumb": "img/lena.png",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing"
+        }
+    ]
+}
