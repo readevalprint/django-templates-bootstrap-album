@@ -1,16 +1,16 @@
 {
-    "albums":[
-        {
-            "thumb": "img/lena.png",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing"
-        },
-        {
-            "thumb": "img/lena.png",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing"
-        },
-        {
-            "thumb": "img/lena.png",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing"
-        }
-    ]
+  "albums":[
+    {
+      "thumb": "album_template/img/lena.png",
+      "description": "Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit."
+    },
+    {
+      "thumb": "album_template/img/wow.png",
+      "description": "Sit amet consectetur adipiscing elit pellentesque."
+    },
+    {
+      "thumb": "album_template/img/lena.png",
+      "description": "Dui nunc mattis enim ut tellus."
+    }
+  ]
 }
