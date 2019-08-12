@@ -84,8 +84,8 @@
           {% for album in albums %}
             <div class="col-md-4">
               <div class="card mb-4 shadow-sm">
-                <img src="{% static album.thumb %}">
                 <div class="card-body">
+                  <img src="{% static album.thumb %}">
                   <p class="card-text">{{ album.description }}</p>
                   <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
