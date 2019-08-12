@@ -11,6 +11,14 @@
     {
       "thumb": "album_template/img/lena.png",
       "description": "Dui nunc mattis enim ut tellus."
+    },
+    {
+      "thumb": "album_template/img/wow.png",
+      "description": "Sit amet consectetur adipiscing elit pellentesque."
+    },
+    {
+      "thumb": "album_template/img/lena.png",
+      "description": "Dui nunc mattis enim ut tellus."
     }
   ]
 }
